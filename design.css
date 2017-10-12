@@ -1,0 +1,16 @@
+html,body {
+    font-family: arial, sans-serif;
+    background-color: gray;
+    background-image: linear-gradient(90deg, transparent 50%, rgba(255,255,255,.5) 50%);
+    background-size: 50px 50px;
+}
+
+.outter-container {
+    margin: 20px 0px;
+    background-color: white;
+}
+
+.inner-container {
+    margin: 20px 0px;
+    background-color: rgb(255, 104, 4); 
+}
